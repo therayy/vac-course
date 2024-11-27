@@ -1,14 +1,6 @@
-# HashiCorp Certified Vault Associate (Video Course)
-with Dave Prowse (https://prowse.tech)
 
-## Introduction
-Hello and Welcome!
-
-The *HashiCorp Certified Vault Associate* video course is designed to teach the basics of Vault and prepare you to take the Vault Associate Certification exam. I build this repository to act as a companion to the video course.
-
-Within this repository you find lab instructions that coincide with the labs in the video course. 
-
-Repository link: https://github.com/daveprowse/vac-course 
+## Github
+Repository link: https://github.com/therayy/vac-course 
 
 ## Recommendations
 To follow along with me during the labs I suggest you have the following ready:
@@ -41,11 +33,7 @@ To follow along with me during the labs I suggest you have the following ready:
 ## Contact information
 If you have any questions you can contact me at:
 
-- My website: https://prowse.tech
-
-- Discord server: https://discord.gg/mggw8VGzUp
-
-> Note: I also run live webinars on the O'Reilly Platform. Check [this link](https://learning.oreilly.com/search/?q=Prowse&type=live-event-series) for the latest.
+- Email: Raafat@ibm.com
 
 ## Resources
 - VirtualBox:
